@@ -1,0 +1,4 @@
+This is a public file that is allowed to be accessed.
+It contains non-sensitive information.
+
+This file demonstrates the whitelist approach to file access control.
